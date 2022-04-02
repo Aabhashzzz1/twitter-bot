@@ -1,0 +1,15 @@
+{
+  "name": "twitter",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aabhashzzz1",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "twit": "^2.2.11"
+  }
+}
